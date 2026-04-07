@@ -1,4 +1,4 @@
-# Hüseyin Uygar Kırkız | @kirkizuygar
+# Hüseyin Uygar Kirkiz | @kirkizuygar
 
 ### Bilkent University - Computer Science Student (Sophomore)
 I am a second-year Computer Science student at Bilkent University, focused on mobile application development and artificial intelligence.
