@@ -1,9 +1,26 @@
-- 👋 Hi, I’m @kirkizuygar, Hüseyin Uygar Kirkiz
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning java programming.
-- I am a freshman at Bilkent University, Department of Computer Science 
+# Hüseyin Uygar Kırkız | @kirkizuygar
 
-<!---
-kirkizuygar/kirkizuygar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Bilkent University - Computer Science Student (Sophomore)
+I am a second-year Computer Science student at Bilkent University, focused on mobile application development and artificial intelligence.
+
+---
+
+### Technical Skills and Interests
+* **Mobile Development:** Experience in building cross-platform applications using Flutter and Dart.
+* **Programming Languages:** Proficient in Java (Academic Foundation) and actively mastering Python for AI/ML and automation.
+* **Core Interests:** Artificial Intelligence, Machine Learning, and Software Architecture.
+
+---
+
+### Current Focus and Projects
+* Developing personal mobile applications with the Flutter framework.
+* Strengthening my Python skills to implement AI-based solutions.
+* Advancing my knowledge in data structures and algorithmic efficiency.
+
+---
+
+
+---
+
+### Contact Information
+* **Email:** uygar.kirkiz@ug.bilkent.edu.tr
