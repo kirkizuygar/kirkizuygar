@@ -19,5 +19,5 @@ I am a Computer Engineering student at Bilkent University. I have hands-on R&D e
 
 ###  Contact
 * **Portfolio:** [huseyinuygarkirkiz.com](https://www.huseyinuygarkirkiz.com/)
-* **LinkedIn:** linkedin.com/in/huseyinuygarkirkiz
+* **LinkedIn:** [linkedin.com/in/huseyinuygarkirkiz](https://www.linkedin.com/in/h%C3%BCseyin-uygar-kirkiz-8b0772311/)
 * **Email:** uygar.kirkiz@ug.bilkent.edu.tr
