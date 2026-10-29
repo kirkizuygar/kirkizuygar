@@ -18,6 +18,6 @@ I am a Computer Engineering student at Bilkent University. I have hands-on R&D e
 * **Artı Yükseliş & KAIROS:** Production-level mobile applications built with Flutter and Firebase, featuring real-time appointment management, modular architecture, and scheduled cloud messaging.
 
 ###  Contact
-* **Portfolio:** huseyinuygarkirkiz.com
+* **Portfolio:** [huseyinuygarkirkiz.com](https://www.huseyinuygarkirkiz.com/)
 * **LinkedIn:** linkedin.com/in/huseyinuygarkirkiz
 * **Email:** uygar.kirkiz@ug.bilkent.edu.tr
